@@ -1,8 +1,9 @@
 #------------------------------------------#
-# Title: Assignment06_Starter.py
+# Title: CDInventory.py
 # Desc: Working with classes and functions.
 # Change Log: (Who, When, What)
-# DBiesinger, 2030-Jan-01, Created File
+# GMarable, 2020-Feb-29, Created File
+# GMarable, 202-Mar-02, Finished Assignment
 #------------------------------------------#
 
 # -- DATA -- #
